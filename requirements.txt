@@ -1,0 +1,18 @@
+# Geospatial stack
+rasterio
+numpy
+matplotlib
+pandas
+geopandas
+shapely
+fiona
+scipy
+scikit-learn
+pyproj
+
+# YAML parsing
+PyYAML
+
+# Automation / Selenium stack (optional if you use Selenium for downloads too)
+selenium
+webdriver-manager
